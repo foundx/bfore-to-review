@@ -2,5 +2,5 @@
 layout: redirected
 sitemap: false
 permalink: /
-redirect_to:  https://bfore.hongotechgarage.com/
+redirect_to:  https://review.foundx.jp/
 ---
